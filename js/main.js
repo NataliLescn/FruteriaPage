@@ -57,17 +57,17 @@ let carrito = [];
 
 let productosFruteria = [
     {id: 1, nombre: "arandano", precio: 5000, img: "/img/arandano.jpg"},
-    {id: 2, nombre: "banana", precio: 1000, img: "../img/banana.jpg"},
-    {id: 3, nombre: "frambuesa", precio: 4000, img: "../img/frambuesa.png"},
-    {id: 4, nombre: "frutilla", precio: 3000, img: "../img/frutilla.jpg"},
-    {id: 5, nombre: "kiwi", precio: 2000, img: "../img/kiwi.jpg"},
-    {id: 6, nombre: "mandarina", precio: 800, img: "../img/mandarina.jpg"},
-    {id: 7, nombre: "manzana", precio: 1500, img: "../img/manzana.jpg"},
-    {id: 8, nombre: "naranja", precio: 9000, img: "../img/naranja.jpg"},
-    {id: 9, nombre: "pera", precio: 3000, img: "../img/pera.jpg"},
-    {id: 10, nombre: "anana", precio: 5000, img: "../img/anana.jpg"},
-    {id: 11, nombre: "pomelo-amarillo", precio: 2000, img: "../img/pomelo-amarillo.jpg"},
-    {id: 12, nombre: "pomelo-rojo", precio: 3000, img: "../img/pomelo-amarillo.jpg"},
+    {id: 2, nombre: "banana", precio: 1000, img: "/img/banana.jpg"},
+    {id: 3, nombre: "frambuesa", precio: 4000, img: "/img/frambuesa.png"},
+    {id: 4, nombre: "frutilla", precio: 3000, img: "/img/frutilla.jpg"},
+    {id: 5, nombre: "kiwi", precio: 2000, img: "/img/kiwi.jpg"},
+    {id: 6, nombre: "mandarina", precio: 800, img: "/img/mandarina.jpg"},
+    {id: 7, nombre: "manzana", precio: 1500, img: "/img/manzana.jpg"},
+    {id: 8, nombre: "naranja", precio: 9000, img: "/img/naranja.jpg"},
+    {id: 9, nombre: "pera", precio: 3000, img: "/img/pera.jpg"},
+    {id: 10, nombre: "anana", precio: 5000, img: "/img/anana.jpg"},
+    {id: 11, nombre: "pomelo-amarillo", precio: 2000, img: "/img/pomelo-amarillo.jpg"},
+    {id: 12, nombre: "pomelo-rojo", precio: 3000, img: "/img/pomelo-amarillo.jpg"},
 ];
 
 
