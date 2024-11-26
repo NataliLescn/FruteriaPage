@@ -50,9 +50,7 @@ Cómo Usar el Proyecto 🚀
 Clona este repositorio:
 
 bash
-git clone https://github.com/NataliLescn/FruteriaPage.git
-
-Abre el archivo index.html en tu navegador.
+git clone https://github.com/NataliLescn/FruteriaPage.git o linkea aqui https://natalilescn.github.io/FruteriaPage/
 
 Disfruta viendo y comprando tus frutas favoritas 🍏🍍🍑.
 
